@@ -14,3 +14,5 @@ if b != 0:
     print("El resto es: ", resto)
 
 #Esto es solo un comentario para prueba de Github v1.0
+
+### Este cambió lo realiso la persona 2, con el fin de usar el comando "git pull origin master"
